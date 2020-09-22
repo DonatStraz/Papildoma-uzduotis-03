@@ -1,0 +1,72 @@
+body{
+   
+    background-color:#EDEFF0;
+}
+
+.container{
+    margin:0 15%;
+}
+
+.navigation{
+    position:fixed;
+    top:0;
+    left:0;
+    width:20px;
+    background-color:#3E474F;
+}
+
+.navigation{
+    display:flex;
+    flex-direction:column;
+    width:50px;
+}
+
+.navigation a{
+    color:white;
+    text-decoration:none;
+    padding:5px 10px;
+    padding-left:22px;
+    
+}
+
+
+.card{
+    background-color:white;
+    margin:15% 0%;
+    border-radius:5px;
+    border-top:5px solid #3659A2;
+    
+}
+
+.card-content{
+    padding:20px 40px;
+}
+
+.sub-header{
+    display:flex;
+    align-items:center;
+    
+    
+}
+
+.sub-header img{
+    margin-right:20px;
+}
+
+.card li{
+    padding:6px 0px;
+}
+
+.card-name{
+    background-color:#F9FAFA;
+    height:50px;
+    
+} 
+
+.card-name h6{
+    padding:8px 0px 0px 10px;
+    margin:0px;
+}
+
+
+
